@@ -45,16 +45,18 @@
 ### 기능 명세서
 
 ## ERD
+![KakaoTalk_20230130_134716543](https://user-images.githubusercontent.com/82176176/215390492-c6a324dd-e342-44af-b060-f3a11d7842dd.png)
 
 ### Branch Convention
 <img src="https://rovitpm.com/content/images/2022/01/feature-branch-with-develop-git-workflow-1.png" width="800">
 
 ### PR Convention
-
-### Commit Convention
-
+[PR 컨벤션](https://www.notion.so/backend-devcourse/PR-Template-1f251b423e4e46b4995e53b337997c53)
+### Code Convention
+[Code 컨벤션](https://www.notion.so/backend-devcourse/c84e699e877c48dda2c3a7bf74ba0a43)
 ### 요구사항 명세서
 
 
 
 ### 스프린트 회고록
+[1차 스프린트 회고록](https://www.notion.so/backend-devcourse/1-693b2efd49e24928a17aefa241c85472?p=c38ca1e474194fad9034a355358ae207&pm=c)
